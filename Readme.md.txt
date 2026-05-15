@@ -61,11 +61,7 @@ File: `netflix_analysis.ipynb`
 - Power BI
 - GitHub
 
----
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
