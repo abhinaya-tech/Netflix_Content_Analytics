@@ -1,48 +1,74 @@
-# 📺 Netflix Content Analytics
+# 📺 Netflix Content Analytics Dashboard
 
-This project analyzes Netflix's content library using Python and visualizes key insights using Power BI.
+An interactive data analytics project built using Python, Power BI, and Streamlit to explore and visualize Netflix’s content library. The project focuses on identifying trends in genres, countries, ratings, and release patterns through data cleaning, exploratory data analysis (EDA), and interactive dashboards.
 
 ---
 
 ## 🗃️ Dataset
 
 - Source: [Netflix Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- Cleaned: `cleaned_netflix_data.csv`
+- Cleaned Dataset: `cleaned_netflix_data.csv`
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Features & Insights
 
-- File: `Netflix_content_analysis_dashboard.pbix`
-- Shows:
-  - Total Netflix titles
-  - Genre distribution
-  - Top contributing countries
-  - Ratings and release trends
-  - TV Shows vs Movies breakdown
-
-![Dashboard Preview](images/dashboard_preview.png)
+- Total Netflix titles analysis
+- Genre distribution visualization
+- Country-wise content contribution
+- Ratings and release trend analysis
+- TV Shows vs Movies comparison
+- Heatmaps and statistical insights
+- Interactive dashboard visualizations
 
 ---
 
-## 📈 Python Code
+## 🖥️ Dashboard & Application
 
-- File: `netflix_analysis.ipynb`
-- Steps:
-  - Data cleaning
-  - Extract year/day from dates
-  - Visualization prep
+### Power BI Dashboard
+File: `Netflix_content_analysis_dashboard.pbix`
+
+### Streamlit Dashboard
+Interactive dashboard with:
+- Filters
+- Charts
+- Heatmaps
+- Trend analysis
+- Statistical visualizations
 
 ---
 
-## 🚀 Tools Used
+## 📈 Python Analysis
 
-- Python (Pandas, Matplotlib, Seaborn)
+File: `netflix_analysis.ipynb`
+
+### Workflow
+- Data cleaning and preprocessing
+- Feature extraction from dates
+- Exploratory Data Analysis (EDA)
+- Visualization preparation
+- Statistical analysis
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Streamlit
 - Power BI
 - GitHub
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+---
+
 ## 🔗 Author
 
-Made by P.Abhinaya
+**P. Abhinaya**
